@@ -40,7 +40,7 @@ export class App extends React.Component {
     } else {
       return (
         <div className="tc">
-          <h1 className="f1">Robo Friends</h1>
+          <h1 className="f1">Weird Alliances</h1>
           <SearchBox key="11" searchChange={this.onSearchChange} />
           <Scroll>
             <CardList key="22" robots={filteredRobots}></CardList>
