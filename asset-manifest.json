@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/weirdalliances/static/css/main.a6e7c0a6.css",
-    "main.js": "/weirdalliances/static/js/main.82ff06e8.js",
+    "main.js": "/weirdalliances/static/js/main.8c49d3b8.js",
     "static/js/787.e06cb2c9.chunk.js": "/weirdalliances/static/js/787.e06cb2c9.chunk.js",
     "static/media/SEGA.woff": "/weirdalliances/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/weirdalliances/index.html",
     "main.a6e7c0a6.css.map": "/weirdalliances/static/css/main.a6e7c0a6.css.map",
-    "main.82ff06e8.js.map": "/weirdalliances/static/js/main.82ff06e8.js.map",
+    "main.8c49d3b8.js.map": "/weirdalliances/static/js/main.8c49d3b8.js.map",
     "787.e06cb2c9.chunk.js.map": "/weirdalliances/static/js/787.e06cb2c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6e7c0a6.css",
-    "static/js/main.82ff06e8.js"
+    "static/js/main.8c49d3b8.js"
   ]
 }
